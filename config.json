@@ -1,7 +1,7 @@
 {
 	"devToken": "",
-	"owners": [],
-	"ownerGuildIds": [],
+	"owners": [522045992543977484],
+	"ownerGuildIds": [522045992543977484],
 	"proBotId": "",
 	"botAdd": "https://invitemanager.co/add-bot/",
 	"botSupport": "https://discord.gg/Am6p2Hs",
@@ -25,5 +25,5 @@
 		"password": "",
 		"database": "im"
 	},
-	"discordBotsToken": ""
+	"discordBotsToken": "NTM4MDk3MjYzNjAwMzM2OTA2.Dyu1sQ.1AzrwuExWW2Oqn8aQiONLAGfhB0"
 }
