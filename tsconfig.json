@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"noImplicitAny": true,
 		"moduleResolution": "node",
-		"resolveJsonModule": true
+		"resolveJsonModule": true,
 		"esModuleInterop": true,
 		"module": "commonjs",
 		"target": "es2017",
